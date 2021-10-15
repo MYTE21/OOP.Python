@@ -1,4 +1,4 @@
-# Object-Oriented Programming Using Python
+# Object Oriented Programming Using Python
 
 * Inheritance
 * Polymorphism
@@ -29,3 +29,18 @@
 4. Reddit.
 5. Spotify.
 6. Instagram etc.
+
+## Object Oriented Programming
+1. Type of programming that breaks things into objects that interacts with each other.
+2. Objects are created from classes.
+3. Object Oriented Programming encourages code reuse through D.R.Y (Don't Repeat Yourself) concept.
+
+### Object
+* An Object can be an entity ar anything in your program like a name.
+* Examples of real world objects includes things around us like - Houses, cars, bank accounts, pets etc.
+
+### Class
+* A class is a blueprint (template) for creating objects.
+* Classes can have properties (attributes) which are like variables that store data.
+* Classes can also have behaviours (methods). These are like functions.
+* You can create many unique objects from a single class.
