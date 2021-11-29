@@ -44,3 +44,9 @@
 * Classes can have properties (attributes) which are like variables that store data.
 * Classes can also have behaviours (methods). These are like functions.
 * You can create many unique objects from a single class.
+
+## Creating a Class
+* Create with the keyword class followed by a name.
+* Common practice is to make the names Pascal Casing: Example: MyFirstCar
+* A class consists of variables (Attributes) and functions (Methods)
+* Classes can be used to model a lot of things.
